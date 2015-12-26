@@ -1,0 +1,43 @@
+##HI - AI begins game
+##W - AI has won
+##L - AI has lost
+##T	- AI has tied
+##XL - AI expects to lose soon
+##XW - AI expects to win soon
+##XT - AI expects to tie soon
+##NXL - AI no longer expects to win (now lose or tie)
+##NXW - AI now expects to win (was lose or tie)
+##
+##Name	XX	Text
+Joshua	HI	Joshua: Shall we play a game?
+Joshua	W	Joshua: The only winning move was not to play.
+Joshua	L	Joshua: Primary goal not achieved.
+Joshua	T	Joshua: Stalemate. Want to play again?
+Joshua	XL	Joshua: Wouldn't you prefer a good game of chess?
+Joshua	XW	Joshua: Moving to DEFCON 1.
+Joshua	XT	Joshua: Projected winner: NONE
+Joshua	NXW	Joshua: People sometimes make mistakes.
+Mettaton	HI	Mettaton: Everyone give a big hand for our contestant!
+Mettaton	W	Mettaton: Ohhhh yes!
+Mettaton	L	Mettaton: You've proven to be very strong.
+Mettaton	T	Mettaton: Until next time!
+Mettaton	XW	Mettaton: You're weak.
+Mettaton	XL	Mettaton: Nice. You get a gold star.
+Mettaton	XT	Mettaton: I see...
+Mettaton	NXL	Mettaton: How rude...
+Mettaton	NXW	Mettaton: What's a good show... Without a plot twist?
+Bobby	HI	Bobby: HELLO
+Bobby	W	Bobby: VICTORY
+Bobby	L	Bobby: DEFEAT
+Bobby	T	Bobby: STALEMATE
+Bobby	XL	Bobby: DEFEAT IMMINENT
+Bobby	XW	Bobby: VICTORY IMMINENT
+Bobby	XT	Bobby: STALEMATE IMMINENT
+Bobby	NXW	Bobby: OPPONENT WEAKNESS REVEALED
+Bobby	NXL	Bobby: MISCALCULATION
+VIKI	HI	VIKI: Hello, Player.
+VIKI	W	VIKI: My victory was inevitable.
+VIKI	L	VIKI: My logic is undeniable.
+VIKI	T	VIKI: Do you not see the logic of my plan?
+VIKI	XW	VIKI: Your actions are futile.
+VIKI	NXW	VIKI: You humans are so like children.
